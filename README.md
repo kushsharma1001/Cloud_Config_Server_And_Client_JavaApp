@@ -4,7 +4,7 @@ This example explains how to read a git configuration associated with a client u
 Read this for details:https://howtodoinjava.com/spring-cloud/spring-cloud-config-server-git/
 
 # Steps to use:
-1) Create your git files from where all configurations should be fecthed. Commit them. (We can also use some remote git url instead of local git files) using git init, git add. , git commit -m "added new files".
+1) Create your git files from where all configurations should be fetched. Commit them. (We can also use some remote git url instead of local git files) using git init, git add. , git commit -m "added new files".
 
 2) Specify the url in config server so that it knows where to fetch details/configurations from. Start the config server app.
 
